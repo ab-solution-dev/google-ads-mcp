@@ -69,7 +69,7 @@ The MCP server runs locally on your machine. Your credentials never leave your c
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/google-ads-mcp.git
+git clone https://github.com/ab-solution-dev/google-ads-mcp.git
 cd google-ads-mcp
 ```
 
