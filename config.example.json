@@ -1,0 +1,8 @@
+{
+  "developer_token": "YOUR_DEVELOPER_TOKEN",
+  "client_id": "YOUR_CLIENT_ID.apps.googleusercontent.com",
+  "client_secret": "YOUR_CLIENT_SECRET",
+  "refresh_token": "",
+  "customer_id": "CLIENT_ACCOUNT_ID_NO_DASHES",
+  "login_customer_id": "MANAGER_ACCOUNT_ID_NO_DASHES"
+}

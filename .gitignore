@@ -1,0 +1,8 @@
+config.json
+refresh_token.txt
+*.token
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
