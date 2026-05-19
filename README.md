@@ -159,10 +159,8 @@ chmod +x lancer_mcp.sh
 
 ---
 
-## License
-
-MIT
+## Open source — free to use, modify and distribute.
 
 ---
 
-**Anthony Bressy** — [Influenci](https://influenci.com) — [anthony@influenci.com](mailto:anthony@influenci.com)
+**Anthony Bressy** — [bressy.anthony@gmail.com](mailto:bressy.anthony@gmail.com)
